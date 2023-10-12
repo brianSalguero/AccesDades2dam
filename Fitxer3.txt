@@ -1,0 +1,8 @@
+Historia
+
+Java se creó como una herramienta de programación para ser usada en un proyecto de set-top-box en una pequeña operación denominada 
+the Green Project en Sun Microsystems en 1991. El equipo (green team), compuesto por trece personas y dirigido por James Gosling, 
+trabajó durante 18 meses en Sand Hill Road, Menlo Park (California), para desarrollarlo.
+
+El lenguaje se denominó inicialmente Oak (por un roble que había fuera de la oficina de Gosling), luego pasó a llamarse red tras 
+descubrir que Oak era ya una marca comercial registrada para adaptadores de tarjetas gráficas, y finalmente se le renombró java.
