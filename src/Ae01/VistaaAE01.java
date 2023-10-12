@@ -74,7 +74,12 @@ public class VistaaAE01 extends JFrame {
 		btnFitxers.setBounds(294, 114, 132, 21);
 		contentPane.add(btnFitxers);
 
-		tableModel = new DefaultTableModel();
+		tableModel = new DefaultTableModel() {
+			@Override
+            public boolean isCellEditable(int row, int column) {
+                return false;
+            }
+		};
 		tableModel.addColumn("Nom");
 		tableModel.addColumn("Extensió");
 		tableModel.addColumn("Tamany");
