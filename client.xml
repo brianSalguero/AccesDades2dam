@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<credencials>
+  <conexio>
+    <url>jdbc:mysql://localhost:3306/books</url>
+    <usuari>client</usuari>
+    <password>client</password>
+  </conexio>
+</credencials>
